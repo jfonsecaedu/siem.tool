@@ -1,0 +1,28 @@
+Aug 09 14:40:00 server sshd[7203]: Accepted password for admin from 10.0.0.5 port 64142 ssh2
+Aug 09 14:50:00 server sshd[2293]: Accepted password for admin from 192.168.1.22 port 37209 ssh2
+Aug 09 14:50:02 server sshd[7270]: Failed password for invalid user test from 203.0.113.77 port 60598 ssh2
+Aug 09 14:50:05 server sshd[9828]: Failed password for invalid user root from 203.0.113.77 port 31450 ssh2
+Aug 09 14:50:08 server sshd[5569]: Failed password for invalid user admin from 203.0.113.77 port 29678 ssh2
+Aug 09 14:50:12 server sshd[1489]: Failed password for invalid user test from 203.0.113.77 port 23268 ssh2
+Aug 09 14:50:14 server sshd[4934]: Failed password for invalid user root from 203.0.113.77 port 48370 ssh2
+Aug 09 14:50:17 server sshd[2668]: Failed password for invalid user root from 203.0.113.77 port 8777 ssh2
+Aug 09 14:50:21 server sshd[3851]: Failed password for invalid user root from 203.0.113.77 port 11691 ssh2
+Aug 09 14:50:25 server sshd[1248]: Failed password for invalid user root from 203.0.113.77 port 25750 ssh2
+Aug 09 14:50:27 server sshd[5602]: Failed password for invalid user root from 203.0.113.77 port 18137 ssh2
+Aug 09 14:50:31 server sshd[3620]: Failed password for invalid user administrator from 203.0.113.77 port 55888 ssh2
+Aug 09 14:50:34 server sshd[1502]: Failed password for invalid user test from 203.0.113.77 port 15963 ssh2
+Aug 09 14:50:38 server sshd[4786]: Failed password for invalid user root from 203.0.113.77 port 9314 ssh2
+Aug 09 14:50:41 server sshd[9431]: Failed password for invalid user test from 203.0.113.77 port 7985 ssh2
+Aug 09 14:50:44 server sshd[9649]: Failed password for invalid user administrator from 203.0.113.77 port 5277 ssh2
+Aug 09 15:05:00 server sshd[6091]: Accepted password for ana from 10.0.0.5 port 23131 ssh2
+Aug 09 15:15:10 server sshd[1145]: Failed password for guest from 198.51.100.23 port 34137 ssh2
+Aug 09 15:15:29 server sshd[1739]: Failed password for guest from 198.51.100.23 port 43788 ssh2
+Aug 09 15:15:38 server sshd[9083]: Failed password for guest from 198.51.100.23 port 52444 ssh2
+Aug 09 15:18:00 server sshd[4024]: Failed password for ana from 10.0.0.9 port 24554 ssh2
+Aug 09 15:24:00 server sshd[6599]: Accepted password for ana from 192.168.1.22 port 14167 ssh2
+Aug 09 15:25:00 server sshd[5935]: Failed password for carlos from 10.0.0.9 port 13964 ssh2
+Aug 09 15:28:00 server sshd[3549]: Accepted password for carlos from 10.0.0.9 port 54717 ssh2
+Aug 09 15:32:00 server sshd[1575]: Accepted password for ana from 192.168.1.10 port 22920 ssh2
+Aug 09 15:40:00 server sshd[1810]: Accepted password for joao from 192.168.1.10 port 61285 ssh2
+Aug 09 15:50:00 server sshd[7493]: Accepted password for admin from 10.0.0.9 port 18726 ssh2
+Aug 09 16:04:00 server sshd[6337]: Failed password for ana from 192.168.1.10 port 21865 ssh2
